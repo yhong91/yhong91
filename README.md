@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ✨ My research interests include Chinese Information Processing, Pattern Recognition and Generative Models.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yhong91)](https://git.io/streak-stats)
