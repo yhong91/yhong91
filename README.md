@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 🔭 I’m currently working toward my PhD degree in Wuhan or Xiamen.
 
 ✨ My research interests include Chinese Information Processing, Pattern Recognition and Generative Models.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
