@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working toward my PhD degree in Wuhan or Xiamen.
+
+✨ My research interests include Chinese Information Processing, Pattern Recognition and Generative Models.
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17157%26project%3D%26in%3D0)](https://codetime.dev)
